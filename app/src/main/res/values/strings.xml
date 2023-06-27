@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dodge Run</string>
+    <string name="forward"> &gt; </string>
+    <string name="backward"> &#60;  </string>
+</resources>
